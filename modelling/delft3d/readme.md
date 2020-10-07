@@ -1,4 +1,4 @@
-Here you can find all boundary and initial conditions used to run all simulation in the Delft3D-FLOW
+This folder contains all boundary and initial conditions used to run all simulation with the Delft3D-FLOW
 
 * **.ini** is the inital temperature condition file used to run the model
 
