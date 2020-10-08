@@ -1,0 +1,35 @@
+C:/Users/Rafael/Desktop/PhD Research/Parameterization/Inputs/temperature25.tem
+C:/Users/Rafael/Desktop/PhD Research/Parameterization/Inputs/metheo_station.met
+C:/Users/Rafael/Desktop/PhD Research/Parameterization/Inputs/sensor_level.sen
+10
+1
+0
+20
+0
+100
+2
+C:/Users/Rafael/Desktop/PhD Research/Parameterization/Inputs/basinlength.fet
+1
+15
+0.1
+2
+9
+12
+2
+3
+Hann
+Morlet
+1
+-999
+-999
+-999
+-999
+None
+None
+1
+24
+25
+26
+-999
+0
+C:/Users/Rafael/Desktop/PhD Research/Parameterization/Inputs/Results/R25
